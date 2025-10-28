@@ -1,0 +1,12 @@
+include README.md
+include LICENSE
+include setup.py
+include MANIFEST.in
+
+recursive-include src/clitm *
+
+recursive-include debian *
+
+recursive-include docs *.md *.txt
+
+global-exclude __pycache__ *.pyc *.pyo *.pyd *.swp *.bak

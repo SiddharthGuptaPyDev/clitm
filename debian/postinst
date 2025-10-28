@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "clitm installed successfully. Run 'clitm' to start the TempMail CLI."
