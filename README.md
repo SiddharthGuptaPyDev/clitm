@@ -1,4 +1,4 @@
-# clitm — Command-line Temp Mail Client
+# clitm — Command-line Temp Mail
 
 <img src="https://raw.githubusercontent.com/SiddharthGuptaPyDev/clitm/refs/heads/main/img/clitm-banner-rounded.png" alt="clitm Banner" style="max-width: 100%; height: auto;"/>
 
