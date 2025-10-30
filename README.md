@@ -1,5 +1,7 @@
 # clitm — Command-line Temp Mail Client
 
+<img src="https://i.ibb.co/rRyr9T6Y/clitm-banner-rounded.png" alt="clitm Banner" style="max-width: 100%; height: auto;"/>
+
 `clitm` is a simple, efficient command-line tool that provides temporary email functionality directly from your terminal.  
 It uses the [Mail.tm](https://mail.tm) API to create disposable email addresses, check messages, and manage temporary inboxes securely and quickly.
 
@@ -96,4 +98,4 @@ See the [LICENSE](LICENSE.md) file for details.
 
 ---
 
-> *clitm — Temporary email, right from the command line.*
+> *clitm — Temporary email, right from the command l$0
